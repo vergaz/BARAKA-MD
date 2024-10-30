@@ -15,7 +15,7 @@
     "MODE": {
       "description": "Enter true for public. false for private",
       "required": true,
-      "value": "public"
+      "value": "true"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
